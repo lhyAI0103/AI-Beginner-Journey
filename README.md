@@ -14,4 +14,4 @@
 ## 目标  
 三年后做出一个能识别人脸的AI！  
 ### 学习进度  
-Python进度：![进度条](https://geps.dev/progress/10)  
+Python进度：![进度条](https://geps.dev/progress/3)  
